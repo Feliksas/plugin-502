@@ -1,6 +1,6 @@
-displayName: Return 502
+displayName: Return 5xx error
 type: middleware
-import: plugin-502
-summary: Simply return 502 Bad Gateway on any processed request
+import: github.com/feliksas/plugin-5xx
+summary: Simply return 5xx error on any processed request
 
 testData: {}

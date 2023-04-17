@@ -1,3 +1,3 @@
-# plugin-requestid
+# plugin-5xx
 
-Plugin for Traefik that adds a X-Request-Id header to requests, allowing downstream services to identify requests.
+Plugin for Traefik that simply returns a specified HTTP code with customizable text description.
