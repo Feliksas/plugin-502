@@ -1,0 +1,6 @@
+displayName: Return 502
+type: middleware
+import: plugin-502
+summary: Simply return 502 Bad Gateway on any processed request
+
+testData: {}
